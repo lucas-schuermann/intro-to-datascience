@@ -7,4 +7,4 @@ Curriculum for DevFest 2017
 - Level 3: Training Models on Datasets
 - Level 4: Supervised Learning Problem
 - Level 5: Unsupervised Learning Problem
-- Extras: Web Scraping with Python
+- Extras: Web Scraping in Python
