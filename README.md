@@ -1,6 +1,5 @@
 # intro-to-datascience
 Curriculum for DevFest 2017
-To include:
 - Introduction
 - Level 0: Setup
 - Level 1: Loading and Exploring Data
