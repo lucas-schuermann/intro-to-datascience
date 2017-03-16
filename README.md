@@ -7,5 +7,4 @@ Curriculum for DevFest 2017
 - Level 3: Training Models on Datasets
 - Level 4: Supervised Learning Problem
 - Level 5: Unsupervised Learning Problem
-- Extras: Introduction to Advanced Visualization; Introduction to Advanced Machine Learning Algorithms
-- Resources: Links and Next Steps
+- Extras: Web Scraping with Python
