@@ -1,4 +1,4 @@
-# intro-to-datascience
+# Introduction to Data Science
 Curriculum for DevFest 2017
 - Introduction
 - Level 0: Setup
