@@ -1,6 +1,5 @@
-# intro-to-datascience
+# Introduction to Data Science
 Curriculum for DevFest 2017
-To include:
 - Introduction
 - Level 0: Setup
 - Level 1: Loading and Exploring Data
@@ -8,5 +7,4 @@ To include:
 - Level 3: Training Models on Datasets
 - Level 4: Supervised Learning Problem
 - Level 5: Unsupervised Learning Problem
-- Extras: Introduction to Advanced Visualization; Introduction to Advanced Machine Learning Algorithms
-- Resources: Links and Next Steps
+- Extras: Web Scraping in Python
