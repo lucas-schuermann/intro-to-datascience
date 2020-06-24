@@ -8,3 +8,6 @@ Curriculum for DevFest 2017
 - Level 4: Supervised Learning Problem
 - Level 5: Unsupervised Learning Problem
 - Extras: Web Scraping in Python
+
+## License
+[MIT](https://lucasschuermann.com/license.txt)
