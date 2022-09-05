@@ -1,5 +1,6 @@
 # Introduction to Data Science
-Curriculum for DevFest 2017
+Curriculum for DevFest 2017 at Columbia University
+
 - Introduction
 - Level 0: Setup
 - Level 1: Loading and Exploring Data
